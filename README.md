@@ -43,11 +43,10 @@ The commands I used are in [`workflow/commands.md`](workflow/commands.md).
 ## Figures
 | Figure | Description |
 |---|---|
-| ![Strains](images/01_leuconostoc_strain_identification.png) | Strain-level genome records retrieved from NCBI (chromosome and plasmid sequences) |
-| ![16S tree](images/02_leuconostoc_16s_tree.png) | 16S rRNA phylogenetic tree of *Leuconostoc* strains |
-| ![DMG table](images/03_dmg_query_table.png) | Curated drug-metabolizing gene table (query set) |
-| ![BLASTp](images/04_blastp_leuconostoc.png) | BLASTp hits against *Leuconostoc* proteomes |
-| ![OrthoFinder](images/05_orthofinder_leuconostoc.png) | OrthoFinder orthogroup output |
+| [Strain-level genome records](images/leuconostoc_strain_identification.png.jpeg) | Genome records retrieved from NCBI (chromosome and plasmid sequences) |
+| [16S phylogenetic tree](images/leuconostoc_16s_tree.png.jpeg) | 16S rRNA phylogenetic tree of *Leuconostoc* strains |
+| [BLASTp results](images/blastp_leuconostoc.png.jpeg) | BLASTp hits against *Leuconostoc* proteomes |
+| [OrthoFinder output](images/orthofinder_leuconostoc.png.jpeg) | OrthoFinder orthogroup output |
 
 ## Limitations
 - Many BLASTp hits had low-to-moderate sequence identity, so function is only inferred
