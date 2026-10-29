@@ -1,0 +1,9 @@
+enzyme_function,ec_number,mechanism,known_metabolized_drugs,known_metabolizing_species,strain
+Tyrosine decarboxylase,4.1.1.25,Decarboxylation,L-Dopa,Enterococcus faecalis,MMH594
+Purine-nucleoside phosphorylase,2.4.2.1,Hydrolysis,Sorivudine; brivudine,Bacteroides thetaiotaomicron,VPI-5482
+NAD-dependent dihydropyrimidine dehydrogenase,1.3.1.1,Reduction,5-Fluorouracil,Escherichia coli,K-12
+Cytidine deaminase,3.5.4.5,Deamination,"Gemcitabine (2',2'-difluorodeoxycytidine)",Escherichia coli,"K-12, O157:H7"
+Dihydropyrimidine dehydrogenase [NADP+],1.3.1.2,Reduction,5-Fluorouracil,Escherichia coli,"W3110, JW2133"
+Arylamine N-acetyltransferase / N-hydroxyarylamine O-acetyltransferase,2.3.1.5 / 2.3.1.118,Hydrolysis,5-Aminosalicylic acid,Pseudomonas,SHC52
+Beta-galactosidase,3.2.1.23,Hydrolysis,Lactulose,Enterococcus sp.,KCTC 3643
+Bile salt hydrolase,3.5.1.24,Hydrolysis,Statins; Tempol (indirect effect),Lactobacillus sp.,DR7
